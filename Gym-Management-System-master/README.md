@@ -54,6 +54,6 @@ To execute the below project, you will need the following requirements:
   
   This will complete the database transfer to your computer.
 ## Contributor
-- Tai Quach <quachthientai@gmail.com>
+- Deepak shakya <deepakshakya00123@gmail.com>
 ## License & copyright
 Licensed under the [![Apche License](https://img.shields.io/github/license/quachthientai/gym-management-system?style=plastic)](LICENSE)
